@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="Img1_Title">"Red Roses Envoke Sense of Depth and Mystery"</string>
+    <string name="Img1_Year">Owen scott (2021)</string>
+    <string name="Img2_Title">Red roses symbolize love that burns passionately</string>
+    <string name="Img2_Year">Atwood (2011)</string>
+    <string name="Img3_Title"> Yellow plants remind us to joy in our lives</string>
+    <string name="Img3_Year">Kat Kuan (2015)</string>
+
+</resources>
